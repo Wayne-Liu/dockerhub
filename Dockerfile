@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/elasticsearch:v6.3.0
+FROM gcr.io/kubernetes-helm/tiller:v2.12.3
