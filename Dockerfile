@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/defaultbackend-amd64:1.5
+FROM registry.gitlab.com/gitlab-org/cluster-integration/helm-install-image/releases/2.12.3-kube-1.11.7
