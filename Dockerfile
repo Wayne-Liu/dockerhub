@@ -1,1 +1,1 @@
-FROM registry.gitlab.com/gitlab-org/cluster-integration/helm-install-image/releases/2.12.3-kube-1.11.7
+FROM k8s.gcr.io/metrics-server-amd64:v0.3.3
