@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/coredns:1.2.2
+FROM gcr.io/heptio-images/sonobuoy:v0.13.0
