@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.4.0
+FROM gcr.io/jenkinsxio/prow/crier:v20190510-3f2c8d788
