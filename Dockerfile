@@ -1,1 +1,1 @@
-FROM gcr.io/heptio-images/sonobuoy:v0.13.0
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.4.0
