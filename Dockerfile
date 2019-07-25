@@ -1,1 +1,1 @@
-FROM gcr.io/google-samples/node-hello:1.0
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller@sha256:4f10413791df045f29f882fab817219e54123b527d6230a4991e2558f3d659f9
