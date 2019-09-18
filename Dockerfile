@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint@sha256:a424ab773b89e13e5e03ff90962db98424621b47c1bb543ec270783cfd859faf
+FROM quay.io/coreos/flannel:v0.11.0-amd64
