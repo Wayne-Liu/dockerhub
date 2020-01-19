@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/metrics-server-amd64:v0.3.5
+FROM kquay.io/coreos/flannel:v0.11.0-amd64
