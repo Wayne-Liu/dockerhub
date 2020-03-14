@@ -1,3 +1,1 @@
-FROM kk8s.gcr.io/echoserver:1.10
-
-
+FROM k8s.gcr.io/echoserver:1.10
