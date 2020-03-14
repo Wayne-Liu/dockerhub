@@ -1,1 +1,1 @@
-FROM kquay.io/coreos/flannel:v0.11.0-amd64
+FROM kk8s.gcr.io/echoserver:1.10
